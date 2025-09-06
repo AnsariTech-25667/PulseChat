@@ -79,7 +79,8 @@ Visit `http://localhost:5173` and feel the pulse of real-time chat.
 
 ## 🌟 The Vision
 
-PulseChat isn’t just a chat project—it’s a **foundation for something bigger**: collaborative tools, real-time notifications, and future-ready integrations. Built this way, it’s not just a demo, it’s a **blueprint for modern web apps**.
+PulseChat isn’t just a chat project it’s a **foundation for something bigger**: collaborative tools, real-time notifications, and future-ready integrations. Built this way, it’s not just a demo, it’s a **blueprint for modern web apps**.
 
 ---
+
 
