@@ -29,7 +29,7 @@ Starting with a barebones Express server, MongoDB integration was added using Mo
 
 ## 🎯 Why It Was Made This Way
 
-PulseChat wasn’t built with shortcuts—it was architected to demonstrate **real-world production standards**:
+PulseChat wasn’t built with shortcuts it was architected to demonstrate **real world production standards**:
 
 * **MongoDB** was chosen for its document flexibility, perfect for storing chat messages and user metadata.
 * **JWT** ensures stateless, secure authentication without bloated session storage.
@@ -82,5 +82,6 @@ Visit `http://localhost:5173` and feel the pulse of real-time chat.
 PulseChat isn’t just a chat project it’s a **foundation for something bigger**: collaborative tools, real-time notifications, and future-ready integrations. Built this way, it’s not just a demo, it’s a **blueprint for modern web apps**.
 
 ---
+
 
 
