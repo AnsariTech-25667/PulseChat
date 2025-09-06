@@ -1,6 +1,6 @@
 # PulseChat 💬⚡
 
-PulseChat is a **modern, full-stack chat application** built with the MERN stack, designed to be lightning-fast, scalable, and developer-friendly. It’s not just another chat app—it’s a playground where cutting-edge backend architecture meets sleek, modular frontend design.
+PulseChat is a **modern, full-stack chat application** built with the MERN stack, designed to be lightning-fast, scalable, and developer-friendly. It’s not just another chat app it’s a playground where cutting-edge backend architecture meets sleek, modular frontend design.
 
 ---
 
@@ -82,3 +82,4 @@ Visit `http://localhost:5173` and feel the pulse of real-time chat.
 PulseChat isn’t just a chat project—it’s a **foundation for something bigger**: collaborative tools, real-time notifications, and future-ready integrations. Built this way, it’s not just a demo, it’s a **blueprint for modern web apps**.
 
 ---
+
